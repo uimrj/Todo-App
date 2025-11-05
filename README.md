@@ -77,16 +77,6 @@ The app will now be running at:
 
 ---
 
-## 🖼️ Screenshot (optional)
-
-*(You can add an image here once you have a UI screenshot)*
-
-```md
-![App Screenshot](public/images/screenshot.png)
-```
-
----
-
 ## 🛠️ Tech Stack
 
 * **Framework:** Laravel 10
